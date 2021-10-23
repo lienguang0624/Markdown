@@ -60,6 +60,12 @@ markdown语法
 ```
 ![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
 
+在Github中添加图片：
+1. 在github中建立一个存放图片的文件夹
+2. 将需要在readme中显示的图片，push到该文件夹
+3. 打开github官网，进入图片所在网址，点击RAW，copy图片地址
+4. 按上述格式填入超链接即可
+
 # 六.超链接
 ```
 [超链接名](超链接地址 "超链接title")title可加可不加
